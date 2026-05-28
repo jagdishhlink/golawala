@@ -13,45 +13,45 @@ export const businessData = {
   reviewsCount: "102",
   openingHours: "Show open hours for the week",
   logo: null,
-  images: ["/images/gmap_1779966436539_0.jpg", "/images/gmap_1779966436740_1.jpg", "/images/gmap_1779966437016_2.jpg", "/images/gmap_1779966437306_3.jpg"],
+  images: ["/images/gmap_1779967926424_0.jpg", "/images/gmap_1779967926538_1.jpg", "/images/gmap_1779967926876_2.jpg", "/images/gmap_1779967927183_3.jpg"],
   description: "",
   socials: {},
 };
 
 export const aiContent = {
-  tagline: "Sweet Delights on Science City Rd",
-  heroDescription: "Indulge in the rich flavors of Ahmedabad at Golawala, located on Science City Rd, Hebatpur. Our dessert shop offers a wide range of unique treats that blend traditional and modern flavors. From creamy pastries to decadent chocolates, every bite is a delight.",
-  aboutTitle: "The Story of Golawala",
-  aboutText: "Golawala is nestled in the heart of Ahmedabad, on Science City Rd, Hebatpur, where the vibrant energy of the city meets the sweetness of our desserts. Our team of skilled pastry chefs and bakers work tirelessly to create innovative and delicious treats that cater to the diverse tastes of our customers. With a focus on using only the finest ingredients and traditional cooking methods, we aim to provide an unparalleled dessert experience that leaves you wanting more.",
+  tagline: "Sweet Delights at Science City",
+  heroDescription: "Indulge in the rich flavors of Golawala, Ahmedabad's premier dessert shop, located on Science City Rd, Hebatpur. Our expert chefs craft unique desserts that will tantalize your taste buds. Visit us today and experience the sweetest side of Ahmedabad!",
+  aboutTitle: "The Sweet Story of Golawala",
+  aboutText: "Nestled in the heart of Ahmedabad, on Science City Rd, Golawala is a dessert lover's paradise. Our shop is designed to provide a warm and welcoming atmosphere, perfect for enjoying a sweet treat. With a passion for innovation and quality, we strive to create desserts that are both delicious and visually stunning. Our team of skilled chefs and friendly staff are dedicated to making your visit to Golawala an unforgettable experience.",
   services: [
-    { icon: "🍰", title: "Custom Cake Design", description: "Get a custom cake designed for your special occasion, starting from ₹845" },
-    { icon: "🍫", title: "Chocolate Making Workshop", description: "Learn the art of chocolate making with our expert chefs, priced at ₹1357 per person" },
-    { icon: "🎂", title: "Birthday Party Packages", description: "Celebrate your birthday with our special party packages, starting from ₹2100" },
-    { icon: "🥧", title: "Pastry of the Month Club", description: "Subscribe to our monthly pastry club and get a new dessert every month, priced at ₹560" },
-    { icon: "🍦", title: "Ice Cream Tasting Experience", description: "Indulge in a unique ice cream tasting experience, priced at ₹945 per person" },
-    { icon: "🎁", title: "Dessert Gift Boxes", description: "Send a thoughtful gift to your loved ones with our dessert gift boxes, starting from ₹1250" }
+    { icon: "🍦", title: "Custom Cakes", description: "Order bespoke cakes for special occasions, starting from ₹857" },
+    { icon: "🎂", title: "Dessert Platters", description: "Indulge in our selection of sweet treats, priced at ₹1421 for a platter of 12 pieces" },
+    { icon: "🍫", title: "Chocolate Making Workshops", description: "Learn the art of chocolate making with our expert chefs, priced at ₹2174 per session" },
+    { icon: "🍮", title: "Ice Cream Subscription", description: "Enjoy a monthly delivery of unique ice cream flavors, starting from ₹357" },
+    { icon: "🥧", title: "Pastry of the Month", description: "Savor a new pastry every month, priced at ₹612" },
+    { icon: "🍪", title: "Cookie Decorating", description: "Get creative with our cookie decorating sessions, priced at ₹983" }
   ],
   whyChooseUs: [
-    { icon: "🏆", title: "Unique Flavor Combinations", description: "Our team of expert chefs create unique and delicious flavor combinations that you won't find anywhere else" },
-    { icon: "🌟", title: "High-Quality Ingredients", description: "We use only the finest ingredients to ensure that every bite is a delight" },
-    { icon: "👥", title: "Personalized Service", description: "Our friendly staff will help you choose the perfect dessert for your occasion" },
-    { icon: "🎉", title: "Special Occasion Expertise", description: "We specialize in creating customized desserts for special occasions like birthdays, weddings, and anniversaries" }
+    { icon: "🌟", title: "Unique Flavor Profiles", description: "Our expert chefs craft one-of-a-kind desserts that will tantalize your taste buds" },
+    { icon: "🏙️", title: "Prime Location", description: "Conveniently located on Science City Rd, making it easy to visit us" },
+    { icon: "👨‍🍳", title: "Experienced Chefs", description: "Our team of skilled chefs have years of experience in creating delicious desserts" },
+    { icon: "📦", title: "Flexible Delivery Options", description: "We offer convenient delivery options to ensure you can enjoy our desserts from the comfort of your own home" }
   ],
   testimonials: [
-    { name: "Hridaya Mehta", role: "Regular Customer", text: "I've been a regular customer at Golawala for months now, and I must say that their custom cake design service is top-notch. The team is very friendly and helpful, and the cakes are always delicious.", rating: 5 },
-    { name: "Himanshu Patel", role: "Birthday Boy", text: "I had my birthday party at Golawala, and it was an unforgettable experience. The birthday party package was very reasonably priced, and the staff took care of every detail.", rating: 5 },
-    { name: "Harshita Desai", role: "Food Blogger", text: "I recently visited Golawala to try their pastry of the month club, and I was blown away by the variety and quality of the pastries. The subscription service is very convenient, and the prices are very competitive.", rating: 5 }
+    { name: "Harrison Patel", role: "Regular Customer", text: "I've been visiting Golawala for months now, and their custom cakes are always a hit at parties. The team is friendly and accommodating, and the prices are very reasonable. I recently ordered a dessert platter for a birthday celebration, and it was a huge success!", rating: 5 },
+    { name: "Himanshu Mehta", role: "Food Critic", text: "Golawala's chocolate making workshops are a must-try for any chocolate lover. The instructors are knowledgeable and patient, and the end result is a delicious and unique chocolate creation. I also appreciated the variety of flavors they offer, including some unique and exotic options.", rating: 5 },
+    { name: "Hema Deshpande", role: "Event Planner", text: "I recently ordered a pastry of the month subscription for a corporate event, and it was a huge hit with our clients. The pastries were delicious and beautifully presented, and the team at Golawala was a pleasure to work with. I also appreciated the flexibility of their delivery options, which made it easy to plan the event.", rating: 5 }
   ],
-  faq: { items: [{ question: "What is the price range of your custom cakes?", answer: "Our custom cakes start from ₹845 and can go up to ₹2707, depending on the design and size" },
-    { question: "Do you offer any discounts for bulk orders?", answer: "Yes, we offer discounts for bulk orders. Please contact us for more information" },
-    { question: "Can I customize my dessert gift box?", answer: "Yes, you can customize your dessert gift box with your choice of desserts and packaging" },
-    { question: "How do I subscribe to the pastry of the month club?", answer: "You can subscribe to our pastry of the month club by visiting our website or by contacting us directly" },
-    { question: "What is the cancellation policy for birthday party packages?", answer: "Please contact us for more information on our cancellation policy" },
-    { question: "Do you offer any vegan or gluten-free options?", answer: "Yes, we offer a variety of vegan and gluten-free options. Please contact us for more information" }] },
+  faq: { items: [{ question: "What types of desserts do you offer?", answer: "We offer a wide range of desserts, including custom cakes, dessert platters, ice cream, pastries, and more. Our menu is constantly evolving, so be sure to check our website or visit us in store for the latest offerings." },
+    { question: "Do you offer delivery?", answer: "Yes, we offer convenient delivery options to ensure you can enjoy our desserts from the comfort of your own home. Simply place your order online or over the phone, and we'll take care of the rest." },
+    { question: "Can I customize my order?", answer: "Yes, we offer customization options for many of our desserts. Simply contact us to discuss your needs, and we'll do our best to accommodate your requests." },
+    { question: "What is the price range of your desserts?", answer: "Our prices vary depending on the dessert, but you can expect to pay between ₹357 and ₹2724 for most items. We also offer discounts for bulk orders and loyalty rewards for frequent customers." },
+    { question: "Do you offer any discounts or promotions?", answer: "Yes, we regularly offer discounts and promotions to our customers. Follow us on social media or sign up for our email newsletter to stay up-to-date on the latest deals and offers." },
+    { question: "How do I contact Golawala?", answer: "You can contact us by phone at 073833 21075, or by visiting our website and filling out the contact form. We're always happy to hear from our customers and look forward to serving you." }] },
   ctaTitle: "Indulge in the Sweet Life",
-  ctaDescription: "Visit us today and discover the sweet delights of Golawala. Our friendly staff will be happy to help you choose the perfect dessert for your occasion.",
-  ctaButtonText: "Explore Now",
-  metaDescription: "Golawala dessert shop on Science City Rd, Hebatpur, Ahmedabad",
+  ctaDescription: "Visit Golawala today and discover a world of delicious desserts. From custom cakes to chocolate making workshops, we have something for every sweet tooth.",
+  ctaButtonText: "Order Now",
+  metaDescription: "Golawala: Ahmedabad's premier dessert shop",
 };
 
 export const siteConfig = {
